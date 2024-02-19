@@ -125,4 +125,3 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
-//cited work https://chat.openai.com/share/27b45f2b-7eb8-4867-89f8-da41ceb9220b
